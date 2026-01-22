@@ -1,0 +1,2 @@
+import myprogram
+print("hello")
